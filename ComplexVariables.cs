@@ -58,6 +58,19 @@ namespace DataStructuresMethods
               //convert array to string
               string[] names = {"Michael","Jack", "Bob"};
               string s = string.Join(" ",names);
+
+
+              //create two arrays one with two similar variables second with different 
+              // write a method which finds out where is similar variable are located
+
+              int[] input1 = {1,2,1,3,2};
+              int[] input2 = {1,2,3,4,5};
+
+              foreach (var item in input1)
+              {
+                  
+              }
+
         }
     }
 }
